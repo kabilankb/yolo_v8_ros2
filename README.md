@@ -27,7 +27,7 @@ YOLOv8 efficiently detects objects, including static and dynamic obstacles, allo
 
 ## Conclusion
 YOLOv8 enhances robotic navigation by enabling real-time obstacle detection and avoidance. This ROS2 node implementation demonstrates its effectiveness in ensuring safe and efficient robotic movement.
-
+![Image](https://github.com/user-attachments/assets/ed42080a-244a-4263-9440-48c19f3c4c2f)
 ## Repository
 [GitHub Repository](git@github.com:kabilankb/yolo_v8_ros2.git)
 
