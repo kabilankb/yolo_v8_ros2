@@ -2,7 +2,7 @@
 
 ## Introduction
 YOLOv8, the latest iteration of the YOLO family, offers improved speed and accuracy, making it ideal for real-time robotics applications. In this blog, we explore how YOLOv8 enables obstacle avoidance in robots and provide a step-by-step guide to implementation.
-
+![Image](https://github.com/user-attachments/assets/1a5102e1-a276-4912-8d55-1a6c7bed442d)
 ## YOLOv8 for Robotics
 YOLOv8 efficiently detects objects, including static and dynamic obstacles, allowing robots to make informed navigation decisions. Its optimized architecture ensures rapid processing, essential for real-time obstacle avoidance.
 
